@@ -4,11 +4,17 @@ The CSS and images used on [/r/WorldOfNintendo](http://reddit.com/r/WorldOfNinte
 This repo uses [CodeKit](https://incident57.com/codekit/) to manage some SASS things for me (mostly Autoprefixer), but you can use whatever you like!
 
 ##To Do
+* fix "other discussions" tab to go with rest of nav
+* reduce the width of the outline of the comments so that it doesn't look weird past the sidebar
+* figure out why /u/Andis1's Target flair isn't working
+* add Blue Pikmin as user flair for contests
 * stylize headings and content
 * stylize the prev/next buttons
 * stylize the user flair selection element(s)
+* add images for upvote/downvote buttons (swords, accessory above/below box, etc.)
 * add other assets to sprite so that there are less images?
 * create some `@extends` and `$vars` for stuff
 * consider replacing the background image with a scanned version of the actual box background because it looks nicer
 * add some more minor fancy animations on random things (search, voting buttons, default thumbnails, etc)
 * replace the "WORLD OF" typeface with the correct typeface (gotta find out what it is) or scan the actual cardboard
+* 
